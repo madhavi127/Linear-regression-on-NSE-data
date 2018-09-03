@@ -1,5 +1,5 @@
 # ** OBJECTIVE ** 
-#1. Import the csv file with past 3 months history for infy share trend
+
 scrip.data <- read.csv("D:/Rclass/idea/idea_90 (1).csv")
 
 
